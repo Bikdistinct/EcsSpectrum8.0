@@ -1,0 +1,38 @@
+.footer{
+    /* background: #111; */
+    background: linear-gradient(to right, #06033f, #3d0319);
+    color: white;
+    height: auto;
+    width: 100% !important;
+    border-radius:15px 25px 0px 0px ;
+    padding-top: 20px;
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content p{
+    margin: 10px auto;
+}
+.footer-content a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+}
+.footer-content a i{
+    font-size: 40px;
+    transition: color 0.5s ease;
+}
+.footer-content a:hover i{
+    color: aqua;
+}
+.footer-bottom{
+    /* background: black; */
+    background: linear-gradient(to right, #06033f, #3d0319);
+    text-align: center;
+    /* width: 100vw; */
+    padding: 15px 0;
+}
