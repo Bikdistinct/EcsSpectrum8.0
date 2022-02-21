@@ -6,7 +6,7 @@
   padding: 2rem;
 }
 #main{
-  background-image: url(/images/back1.png);
+  background-image: url(/images/back1\(comp\).png);
   background-size: cover;
   padding-left: 0;
   padding-right: 0;
@@ -94,7 +94,7 @@
     padding: 0.7rem;
   }
   #main{
-    background-image: url(/images/back_mobile.png);
+    background-image: url(/images/back_mobile\ \(comp\).png);
     background-size: cover;
   }
   #image1{
